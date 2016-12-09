@@ -10,4 +10,9 @@ Obs.: Don't need to be on the localhost.
 
 To manage your passwords, store on the same structure of Passwords.txt
 If you don't know the JSON, use the editor below:
+
 JSON Editor: https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj?utm_source=chrome-app-launcher-info-dialog
+
+![alt text](https://github.com/rafaeleziquiel/PasswordChamber/blob/master/img1.jpg "Tela 1")
+![alt text](https://github.com/rafaeleziquiel/PasswordChamber/blob/master/img2.jpg "Tela 2")
+![alt text](https://github.com/rafaeleziquiel/PasswordChamber/blob/master/img3.jpg "Tela 3")
