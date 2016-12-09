@@ -1,5 +1,5 @@
 # PasswordChamber
-*Tired of search a secure way to store your passowds? Do not trust any online manager? Use this! A local Password Chamber! If you prefer, compress this with rar and set a password! Some more secure way?*
+*Tired of search a secure way to store your passowds? Do not trust any online manager? Use this! A local Password Chamber! If you prefer, compress the entire folder with rar and set a password! Some more secure way?*
 
 Password Chamber is a list of your passwords like LastPass.
 
