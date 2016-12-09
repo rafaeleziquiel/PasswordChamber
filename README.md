@@ -1,5 +1,7 @@
 # PasswordChamber
-List your passwords like LastPass
+*Tired of search a secure way to store your passowds? Do not trust any online manager? Use this! A local Password Chamber! If you prefer, compress this with rar and set a password! Some more secure way?*
+
+Password Chamber is a list of your passwords like LastPass.
 
 ## How to use
 Just open the index.html on your browser, click on "Select file" button and select the Passwords.txt.
